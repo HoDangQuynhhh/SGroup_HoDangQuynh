@@ -15,7 +15,8 @@ JS - Hành động - Node Js, Net, Java - FrameWord
 <li> Bảng dữ liệu </li>
 <img> </img> 
 <br> Xuống dòng
-
+<audio> âm thanh </audio>
+<ifram> youtube </ifram>
 <main> 
     <section>
         //Họ tên

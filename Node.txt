@@ -1,0 +1,55 @@
+T1 : HTML,CSS,JS
+-> Profolio
+-> Group
+T2 : JS
+
+Buổi 1 : 
+HTML - Xương
+CSS - Da thịt
+JS - Hành động - Node Js, Net, Java - FrameWord
+               - NueJs, ReactJS, Angular
+<h1> Tiêu đề </h1>
+<p> Đoạn văn </p>
+<ul> ra danh sách đầu . </ul>
+<ol> Ra danh sách với số thứ tự </ol>
+<li> Bảng dữ liệu </li>
+<img> </img> 
+<br> Xuống dòng
+
+<main> 
+    <section>
+        //Họ tên
+        <div>    
+            <image>
+
+            </image>
+        </div>
+    </section>
+
+    <section>
+        //
+    </section>
+</main>
+<blockquote> Thụt vào </blockquote>
+Thẻ in line 
+<b> in đậm </b>
+<i>in nghiêng </i>
+<u> gạch chân dưới </u>
+<hr> Gạch ngang
+
+CSS -- 
+<style>
+     Tên thẻ { 
+        color : Màu chữ
+        background : màu nền
+        width : Chiều rộng
+        height : Chiều cao
+     }   
+     img {
+        width:
+        height
+     }
+</style>
+
+GitHub :  
+Git clone 
